@@ -7,20 +7,22 @@
 * Belajar Mengenai Get & Post
 */
 ?>
+
 <?php
 // cek apakah tidak ada data di $_GET
 if( !isset($_GET["nama"]) || 
     !isset($_GET["nrp"]) ||
     !isset($_GET["email"]) ||
     !isset($_GET["jurusan"]) ||
-    !isset($_GET["gambar"]) )
+    !isset($_GET["gambar"]) ){
     // redirect
     header("Location: latihan1.php");
     exit;
+}
 ?>
 
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
