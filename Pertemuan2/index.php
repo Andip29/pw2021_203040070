@@ -79,7 +79,7 @@ mempelajari sintaks php
 
 
 ?>
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -89,4 +89,4 @@ mempelajari sintaks php
 <body>
     <h1>Halo, Selamat Datang <?php echo $nama; ?></h1>
 </body>
-</html> -->
+</html>
