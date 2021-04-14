@@ -87,6 +87,9 @@ mempelajari sintaks php
     <title>Belajar PHP</title>
 </head>
 <body>
-    <h1>Halo, Selamat Datang <?php echo $nama; ?></h1>
+    <h1>Halo, Selamat Datang <?php echo "name"; ?></h1>
+    <?php
+        echo "<h1>Selamat datang Priyandi Zembar Azizi</h1>"
+        ?>
 </body>
 </html>
