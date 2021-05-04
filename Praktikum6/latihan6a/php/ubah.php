@@ -33,7 +33,7 @@ if (isset($_POST["ubah"])) {
       <link type="text/css" rel="stylesheet" href="../assets/css/materialize.min.css"  media="screen,projection"/>
 
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="../css1/style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 
 </head>
 <body class="bgt">

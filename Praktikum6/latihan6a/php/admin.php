@@ -35,7 +35,7 @@ if (isset($_GET['cari'])){
       
     </style>
     <title>Latihan6a!</title>
-    <link rel="stylesheet" type="text/css" href="../css1/style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
     </head>
 
     <body>

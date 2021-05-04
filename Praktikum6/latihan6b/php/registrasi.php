@@ -28,7 +28,7 @@ if(isset($_POST["register"])) {
       <link type="text/css" rel="stylesheet" href="../assets/css/materialize.min.css"  media="screen,projection"/>
 
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="../css2/style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 
 </head>
 <body class="lgn">
