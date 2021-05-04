@@ -38,3 +38,7 @@
     transition: 0.25s;
     cursor: pointer;
 }
+.image img{
+    width: 200px;
+    height: 200px;
+}

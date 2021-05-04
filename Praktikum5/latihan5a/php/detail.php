@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container" >
-    <div class="gambar">
+    <div class="image">
         <img src="../assets/img/<?= $pakaian["img"];?>" alt="">
         </div>
         <div class="keterangan">
