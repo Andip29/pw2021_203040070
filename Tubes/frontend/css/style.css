@@ -1,0 +1,68 @@
+.slider h3,
+.slider h5{
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+   
+
+.card {
+  position: relative;
+  background-color: #f4f4f4;
+  margin: 10px auto;
+  height: 100%;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.7);
+}
+
+.card {
+  height: 100%;
+}
+
+.card .card-image img {
+  object-fit: contain !important;
+}
+
+.container{
+  height: 100%;
+}
+
+/* halaman detail */  
+  .detail .container {
+    background-color: #f5f5f5;
+  }
+  
+  .detail .header{
+    font-family: Kaushan Script;
+    padding-top: 35px;
+  }
+  
+  .detail .card{
+    margin: 50px;
+    height: 420px;
+    margin-top: 25px;
+  }
+  
+  .detail .card-content{
+    font-family: Libre Baskerville;
+    font-size: 20px;
+  }
+  
+  .detail .card-action a{
+    color: black!important;
+    font-weight: bold;
+  }
+  
+
+
+.gambar img{
+  width: 400px;
+  height: 400px;
+
+}
