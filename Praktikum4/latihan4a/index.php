@@ -1,9 +1,9 @@
 <?php
 // Melakukan koneksi ke database
-$conn = mysqli_connect("localhost", "root", "");
+$conn = mysqli_connect("localhost", "pw20070", "#Akun#203040070#");
 
 // Memilih Database
-mysqli_select_db($conn, "pw_tubes_203040070");
+mysqli_select_db($conn, "pw20070_pw_tubes_203040070");
 
 // Melakukan Querry dari database
 $result = mysqli_query($conn, "SELECT * FROM pakaian");
