@@ -11,7 +11,7 @@ Materi pertemuan 13 menambah fitur ajax dan upload gambar
 
 function koneksi()
 {
-  return  mysqli_connect('localhost', 'pw20070_pw203040070', ',UigYx6Wz3$n', 'pw20070_pw_203040070');
+  return  mysqli_connect('localhost', 'pw20070', '#Akun#203040070#', 'pw20070_pw_203040070');
 }
 
 function query($query)
