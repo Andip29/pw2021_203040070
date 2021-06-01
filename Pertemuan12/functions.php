@@ -11,7 +11,7 @@ Materi pertemuan 12 menambahkan fitur login dan registrasi
 
 function koneksi()
 {
-  return  mysqli_connect('localhost', 'root', '', 'pw_203040070');
+  return  mysqli_connect('localhost', 'pw20070', '#Akun#203040070#', 'pw20070_pw_203040070');
 }
 
 function query($query)

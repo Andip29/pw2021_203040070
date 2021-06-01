@@ -2,8 +2,8 @@
 // fungsi untuk melakukan koneksi ke database
 function koneksi()
 {
-    $conn = mysqli_connect("localhost", "root", "");
-    mysqli_select_db($conn, "pw_tubes_203040070");
+    $conn = mysqli_connect("localhost", "pw20070", "#Akun#203040070#");
+    mysqli_select_db($conn, "pw20070_pw_tubes_203040070");
 
     return $conn;
 }
