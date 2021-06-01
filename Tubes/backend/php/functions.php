@@ -2,7 +2,7 @@
 // fungsi untuk melakukan koneksi ke database
 function koneksi()
 {
-    $conn = mysqli_connect("localhost", "pw20070", ",UigYx6Wz3$n");
+    $conn = mysqli_connect("localhost", "pw20070_pw203040070", ",UigYx6Wz3$n");
     mysqli_select_db($conn, "pw20070_pw_tubes_203040070");
 
     return $conn;
