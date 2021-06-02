@@ -9,7 +9,7 @@ Materi pertemuan 10 mempelajari mengenai koneksi database dan insert data
 ?>
 <?php
 // Koneksi ke DB & Pilih Database
-$conn = mysqli_connect('localhost', 'root', '', 'pw_203040070');
+$conn = mysqli_connect('localhost', 'pw20070', '#Akun#203040070#', 'pw20070_pw_203040070');
 
 // Query isi tabel mahasiswa
 $result = mysqli_query($conn, "SELECT * FROM mahasiswa");
