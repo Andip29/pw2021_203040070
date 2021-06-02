@@ -21,7 +21,6 @@ if (isset($_GET['cari'])){
     $pakaian = query("SELECT * FROM pakaian");
 }
 ?>
-
 <!DOCTYPE html>
   <html>
     <head>

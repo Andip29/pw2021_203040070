@@ -13,7 +13,6 @@
                 <th>kolom <?= $i ; ?></th>
         <?php endfor; ?>
       </tr>
-
       <?php for($i = 1; $i <= 5; $i++) : ?>
           <tr>
               <th>Baris <?= $i; ?></th>

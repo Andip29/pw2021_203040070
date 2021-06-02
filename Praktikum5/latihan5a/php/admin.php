@@ -6,7 +6,6 @@ require 'functions.php';
 $pakaian = query("SELECT * FROM pakaian");
 
 ?>
-
 <!DOCTYPE html>
   <html>
     <head>

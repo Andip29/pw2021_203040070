@@ -4,4 +4,3 @@ for($i = 1; $i <= 3; $i++) {
       echo  " Ini perulangan ke ($i,$y)<br>";
   }
 }
-?>

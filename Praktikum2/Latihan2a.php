@@ -7,7 +7,6 @@ Praktikum 2 - 5 Maret 2021
 Tugas mengenai function
 */
 ?>
-
 <?php 
     function gantiStyle($tulisan, $style1, $style2){
         return "<div class=\"$style1 $style2\">$tulisan</div>";

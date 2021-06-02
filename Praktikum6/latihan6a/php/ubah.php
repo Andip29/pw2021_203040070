@@ -20,7 +20,6 @@ if (isset($_POST["ubah"])) {
     }
 }
 ?>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">

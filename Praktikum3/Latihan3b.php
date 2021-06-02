@@ -1,7 +1,6 @@
 <?php
 $nama = ["Mesut Ozil", "Cristiao Ronaldo", "Lionel Messi", "Karim Benzema", "Lewandowski"]
 ?>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,7 +22,6 @@ $nama = ["Mesut Ozil", "Cristiao Ronaldo", "Lionel Messi", "Karim Benzema", "Lew
             <li><?= $key; ?></li> 
         <?php endforeach; ?>
     </ol>
-
     <?php
     $nama_baru = array_push($nama,"Neymar jr", "Hulk");
     $nama_baru = sort($nama);

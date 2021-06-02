@@ -33,9 +33,7 @@ function soal($style){
         }
     </style>
 </head>
-<body>
-    
+<body>   
 <?php echo soal("border")?>
-
 </body>
 </html>

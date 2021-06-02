@@ -16,7 +16,6 @@
     $pakaian = query("SELECT * FROM pakaian WHERE id = $id")[0];
 
 ?>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">

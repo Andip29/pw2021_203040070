@@ -76,7 +76,6 @@ function ubahRupiah($angka){
     return "Rp" . number_format($angka,2,',','.');
 }
 ?>
-
 <!doctype html>
 <html lang="en">
   <head>
