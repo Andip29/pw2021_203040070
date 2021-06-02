@@ -7,7 +7,6 @@ Pertemuan 13 - (12 05 2021)
 Materi pertemuan 13 menambah fitur ajax dan upload gambar
 */
 ?>
-
 <?php
 require 'functions.php';
 

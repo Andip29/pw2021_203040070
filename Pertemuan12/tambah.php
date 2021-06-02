@@ -7,7 +7,6 @@ Pertemuan 12 - (30 APRIL 2021)
 Materi pertemuan 12 menambahkan fitur login dan registrasi
 */
 ?>
-
 <?php
 session_start();
 if (!isset($_SESSION['login'])) {
